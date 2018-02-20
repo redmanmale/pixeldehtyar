@@ -1,10 +1,7 @@
-Nyan Cat
-========
+# Nyan Dehtyar
 
-[DEMO HERE](http://daviswang.github.io/nyan-cat/)
+Happy birthday, Karina!  
 
-Nyan Cat made with HTML5+CSS3 (and JavaScript :T).
+All images were drawn pixel-perfect by hand from reference ones and modified only slightly.  
 
-Forked from cristurm/nyan-cat
-
-TODO: add more cats + music + message + fix rainbow + normalize volume
+Based on Nyan Cat from [here](https://github.com/DavisWang/nyan-cat).
