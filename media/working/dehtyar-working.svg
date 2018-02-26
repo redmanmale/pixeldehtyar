@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="310"
+   height="280"
+   viewBox="0 0 310 280"
+   sodipodi:docname="dehtyar-working.svg"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1618"
+     inkscape:window-height="1028"
+     id="namedview96"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="1.5375"
+     inkscape:cx="149.40879"
+     inkscape:cy="102.45432"
+     inkscape:window-x="1334"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <g
+     style="display:inline"
+     id="g20">
+    <path
+       style="fill:#fefefe"
+       d="M 25,280 H 0 v -40 -40 h 5 5 v 10 10 h 5 5 v 10 10 h 5 5 v 10 10 h 10 10 v 10 10 z m 55,0 H 70 v -5 -5 h 10 10 v 5 5 z m 80,0 h -60 v -5 -5 h 5 5 v -10 -10 h 40 40 v 5 5 h 5 5 v 5 5 h 10 10 v 5 5 z m 125,0 h -25 v -5 -5 h 5 5 v -5 -5 h 5 5 v -5 -5 h 5 5 v -5 -5 h 5 5 v -10 -10 h 5 5 v 30 30 z M 120,190 h -10 v -15 -15 h 10 10 v 15 15 z m 35,0 h -5 v -15 -15 h 5 5 v 15 15 z m 50,0 h -5 v -15 -15 h 5 5 v 15 15 z m 30,0 h -5 v -15 -15 h 5 5 v 15 15 z m 70,-90 h -5 V 90 80 h -5 -5 V 70 60 h -5 -5 v -5 -5 h -5 -5 v -5 -5 h -5 -5 v -5 -5 h -5 -5 V 25 20 H 240 230 V 15 10 H 220 210 V 5 0 h 50 50 v 50 50 z M 5,90 H 0 V 45 0 h 50 50 v 5 5 h -5 -5 v 5 5 h -5 -5 v 5 5 H 65 50 v 5 5 h -5 -5 v 5 5 h -5 -5 v 5 5 h -5 -5 v 5 5 h -5 -5 v 10 10 z"
+       id="path32"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#fec5bc"
+       d="m 175,250 h -55 v -5 -5 h -5 -5 v -25 -25 h 25 25 v -10 -10 h 20 20 v 10 10 h 20 20 v 5 5 h 5 5 v 15 15 h -5 -5 v 5 5 h -5 -5 v 5 5 z m 0,-20 h 15 v -5 -5 h -15 -15 v -5 -5 h -5 -5 v 5 5 h 5 5 v 5 5 z m 20,-30 h 5 v -5 -5 h -5 -5 v 5 5 z M 65,210 H 50 v -5 -5 h -5 -5 v -20 -20 h 5 5 v -5 -5 h 10 10 v 5 5 h 5 5 v 25 25 z m 0,-10 h 5 v -15 -15 h -5 -5 v -5 -5 h -5 -5 v 5 5 h 5 5 v 15 15 z m 55,-40 h -10 v -5 -5 h 10 10 v 5 5 z m 35,0 h -5 v -5 -5 h 5 5 v 5 5 z m 50,0 h -5 v -5 -5 h 5 5 v 5 5 z"
+       id="path30"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#fd8ca8"
+       d="m 115,250 h -5 v -5 -5 h 5 5 v 5 5 z m 120,0 h -5 v -5 -5 h 5 5 v -5 -5 h 5 5 v 5 5 h -5 -5 v 5 5 z M 65,190 h -5 v -10 -10 h -5 -5 v -5 -5 h 5 5 v 5 5 h 5 5 v 10 10 z m 115,-20 h -20 v -5 -5 h 5 5 v -5 -5 h -5 -5 v -5 -5 h -25 -25 v -20 -20 h 5 5 v 5 5 h 5 5 v 5 5 h 10 10 v 5 5 h 5 5 v 5 5 h 20 20 v 15 15 z m 55,-50 h -5 v -5 -5 h -5 -5 V 95 80 h 5 5 v 5 5 h 5 5 v 15 15 z m 20,0 h -5 v -10 -10 h 5 5 v 10 10 z M 205,90 h -5 v -5 -5 h 5 5 v 5 5 z"
+       id="path28"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#fd4193"
+       d="m 65,280 h -5 v -5 -5 h 5 5 v -5 -5 h 5 5 v 5 5 h -5 -5 v 5 5 z m 40,-10 h -5 v -30 -30 h -5 -5 v -15 -15 h -5 -5 v -10 -10 h -5 -5 v -5 -5 h -5 -5 v -5 -5 h -5 -5 v -5 -5 h -5 -5 v -5 -5 H 35 30 V 110 100 H 25 20 V 80 60 h 5 5 v -5 -5 h 5 5 v -5 -5 h 5 5 v -5 -5 h 10 10 v 10 10 h 5 5 V 35 20 h 5 5 v -5 -5 h 5 5 V 5 0 h 55 55 v 5 5 h 10 10 v 5 5 h 10 10 v 5 5 h 5 5 v 5 5 h 5 5 v 5 5 h 5 5 v 5 5 h 5 5 v 10 10 h 5 5 v 10 10 h 5 5 v 60 60 h -5 -5 v 10 10 h -5 -5 v 5 5 h -5 -5 v -5 -5 h 5 5 v -25 -25 h -5 -5 v -15 -15 h -5 -5 v 10 10 h -5 -5 v -5 -5 h -5 -5 v -15 -15 h -5 -5 v 5 5 h -15 -15 v -5 -5 h -5 -5 v -10 -10 h -5 -5 v 10 10 h -15 -15 v -5 -5 h -5 -5 v -5 -5 h -5 -5 v -5 -5 h -5 -5 V 100 90 h -5 -5 v -5 -5 h -5 -5 v 35 35 h -5 -5 v 5 5 h 5 5 v 55 55 z M 235,120 h 5 V 105 90 h -5 -5 v -5 -5 h -5 -5 v 15 15 h 5 5 v 5 5 z m 20,0 h 5 v -10 -10 h -5 -5 v 10 10 z M 205,90 h 5 v -5 -5 h -5 -5 v 5 5 z M 65,200 h -5 v -5 -5 h 5 5 v 5 5 z"
+       id="path26"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cc285a"
+       d="M 55,280 H 50 V 270 260 H 40 30 V 250 240 H 25 20 V 230 220 H 15 10 V 210 200 H 5 0 V 145 90 h 5 5 V 80 70 h 5 5 v 15 15 h 5 5 v 10 10 h 5 5 v 5 5 h 5 5 v 5 5 h 5 5 v 5 5 h -5 -5 v 5 5 h -5 -5 v 20 20 h 5 5 v 5 5 h 15 15 v -15 -15 h 5 5 v 15 15 h 5 5 v 35 35 h -5 -5 v -5 -5 h -5 -5 v -5 -5 h -5 -5 v 5 5 h -5 -5 v 5 5 z m 185,0 h -20 v -5 -5 h -10 -10 v -5 -5 h -5 -5 v -5 -5 h 25 25 v -5 -5 h 5 5 v -20 -20 h -5 -5 v -30 -30 h 5 5 v 15 15 h 5 5 v 5 5 h 5 5 v -10 -10 h 5 5 v 15 15 h 5 5 v 25 25 h -5 -5 v 10 10 h -5 -5 v 5 5 h -5 -5 v 5 5 z m -65,-50 h -15 v -5 -5 h -5 -5 v -5 -5 h 5 5 v 5 5 h 15 15 v 5 5 z m 20,-30 h -5 v -5 -5 h 5 5 v 5 5 z m 10,-50 h -5 v -5 -5 h -5 -5 v -10 -10 h 5 5 v 10 10 h 5 5 v 5 5 z m -70,-30 h -5 v -5 -5 h -5 -5 v -5 -5 h -5 -5 V 90 80 h 5 5 v 5 5 h 5 5 v 10 10 h 5 5 v 5 5 z M 75,50 H 70 V 40 30 h 5 5 v 10 10 z"
+       id="path24"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000"
+       d="m 140,190 h -10 v -20 -20 h -10 -10 v 5 5 h -5 -5 v -5 -5 h 5 5 v -5 -5 h 25 25 v 5 5 h 5 5 v 5 5 h -5 -5 v -5 -5 h -5 -5 v 20 20 z m 80,0 h -10 v -20 -20 h 15 15 v 5 5 h -5 -5 v 15 15 z"
+       id="path22"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
